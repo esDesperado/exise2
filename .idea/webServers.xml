@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1ee18904-efc8-4a07-bf30-aa46d3676bb0" name="stroy_discont">
+        <fileTransfer accessType="SFTP" host="194.67.111.191" port="22" sshConfigId="c95f1bed-6312-4fcf-8c82-8df45f2aa3ae" sshConfig="root@194.67.111.191:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="1445c84e-ce1c-493f-a53e-c16966f90fba" name="onix" url="http://31.31.196.166">
+        <fileTransfer host="31.31.196.166" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
