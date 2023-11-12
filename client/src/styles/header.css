@@ -1,0 +1,26 @@
+.main-header{
+    background: black;
+    height:60px;
+    width:100%;
+    position: relative;
+    padding:20px;
+    box-sizing: border-box;
+    display: grid;
+    place-items: center;
+    overflow:hidden;
+}
+.main-header > div{
+    max-width: 100%;
+    display: grid;
+    grid-auto-flow: column;
+    height:20px;
+    color:grey;
+    justify-items: center;
+}
+.header-link{
+    cursor: pointer;
+    background: transparent;
+    color:grey;
+    border: none;
+    font-size: 1em;
+}

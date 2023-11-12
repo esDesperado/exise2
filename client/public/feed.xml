@@ -1,0 +1,2183 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<yml_catalog date="2023-10-31 16:22">
+	<shop>
+        <name>Строй Дисконт</name>
+        <company>Строй Дисконт</company>
+        <url>https://stroidiskont.com</url>
+        <platform>Строй Дисконт</platform>
+        <version>1.0</version>
+        <agency>Строй Дисконт</agency>
+        <email>stroidiskont21@mail.ru</email>
+        <currencies>
+            <currency id="RUR" rate="1"/>
+        </currencies>
+        <categories>
+            <category id="1">Стройматериалы</category>
+        </categories>
+        <delivery-options>      <!-- условия доставки -->
+            <option cost="600" days="1"/>
+        </delivery-options>
+        <pickup-options>        <!-- условия самовывоза -->
+            <option cost="0" days="1"/>
+        </pickup-options>
+        <enable_auto_discounts>false</enable_auto_discounts>
+		<offers>
+			<offer id="135" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Шпаклевка гипсовая ВОЛМА Стандарт 20кг</name>
+				<price>413</price>
+				<url>https://stroidiskont.com/object/135</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_190902371.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="122" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Штукатурка гипсовая Волма Слой 30кг</name>
+				<price>423</price>
+				<url>https://stroidiskont.com/object/122</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_015307084.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="123" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Штукатурка гипсовая Knauf Ротбанд 30 кг</name>
+				<price>515</price>
+				<url>https://stroidiskont.com/object/123</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_183555852.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="245" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Газоблок перегородочный 625х250х100</name>
+				<price>179</price>
+				<url>https://stroidiskont.com/object/245</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_225228498.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="166" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Смесь ПЦС М150 25кг</name>
+				<price>129</price>
+				<url>https://stroidiskont.com/object/166</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_200405032.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="129" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Штукатурка гипсовая Unis Теплон армированный 30 кг</name>
+				<price>529</price>
+				<url>https://stroidiskont.com/object/129</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_185127818.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="159" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Наливной пол Bergauf Easy Boden самонивелирующийся серый 25 кг</name>
+				<price>495</price>
+				<url>https://stroidiskont.com/object/159</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_195816502.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="248" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Газоблок перегородочный 625х200х100</name>
+				<price>192</price>
+				<url>https://stroidiskont.com/object/248</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_225228498.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="127" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Штукатурка цементная Unis Силин универсальный армированный 25 кг</name>
+				<price>419</price>
+				<url>https://stroidiskont.com/object/127</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_184405043.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="260" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Шпаклевка латексная ЛАКРА Для внутренних работ 1,5кг</name>
+				<price>95</price>
+				<url>https://stroidiskont.com/object/260</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_230427120.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="249" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Шпаклевка гипсовая BERGAUF (Бергауф) Fugen Gips для работы с ГКЛ 5кг</name>
+				<price>271</price>
+				<url>https://stroidiskont.com/object/249</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_225756512.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="251" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Шпатлевка гипсовая EK K300 FINISH 20 кг</name>
+				<price>469</price>
+				<url>https://stroidiskont.com/object/251</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_225901440.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="271" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Клей для плитки Bergauf Keramik 25 кг</name>
+				<price>369</price>
+				<url>https://stroidiskont.com/object/271</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_232102632.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="152" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Смесь М300 пескобетон 25кг</name>
+				<price>190</price>
+				<url>https://stroidiskont.com/object/152</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_194701916.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="138" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Шпатлевка латексная Bauproffe Финишная белый 1,5 кг</name>
+				<price>127</price>
+				<url>https://stroidiskont.com/object/138</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_191258656.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="137" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Шпатлевка латексная Bauproffe для внутренних работ белый 1,5 кг</name>
+				<price>116</price>
+				<url>https://stroidiskont.com/object/137</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_191110855.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="132" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Шпатлевка полимерная Bauproffe Super финишная белый 20 кг</name>
+				<price>438</price>
+				<url>https://stroidiskont.com/object/132</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_190455628.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="139" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Шпатлевка латексная Bauproffe Финишная белый 5 кг</name>
+				<price>355</price>
+				<url>https://stroidiskont.com/object/139</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_191427138.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="140" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Шпатлевка акриловая Bauproffe белый 5 кг</name>
+				<price>395</price>
+				<url>https://stroidiskont.com/object/140</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_191605780.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="141" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Шпатлевка латексная Bauproffe для внутренних работ белый 5 кг</name>
+				<price>324</price>
+				<url>https://stroidiskont.com/object/141</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_191737592.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="153" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Смесь ПЦС М150 25кг</name>
+				<price>160</price>
+				<url>https://stroidiskont.com/object/153</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_195031680.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="244" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Кирпич шамотный ШБ №5</name>
+				<price>93</price>
+				<url>https://stroidiskont.com/object/244</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_225119098.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="254" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Шпаклевка полимерная финишная Ceresit CT127 белая 25 кг</name>
+				<price>1120</price>
+				<url>https://stroidiskont.com/object/254</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_230051101.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="226" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Пиломатериалы профилированные 40Х50Х2000мм хвоя 1сорт</name>
+				<price>230</price>
+				<url>https://stroidiskont.com/object/226</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_222021552.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="256" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Шпаклевка гипсовая BERGAUF (Бергауф) Fugen Gips для работы с ГКЛ 25кг</name>
+				<price>550</price>
+				<url>https://stroidiskont.com/object/256</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_230207623.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="239" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Конек ОНДУЛИН зеленая черепица</name>
+				<price>269</price>
+				<url>https://stroidiskont.com/object/239</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_224617491.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="295" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Профиль строительный направляющий 28х27х0,38 мм 2,7 м</name>
+				<price>62</price>
+				<url>https://stroidiskont.com/object/295</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_205802111.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="227" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Уголок наружный деревянный сортА 30X30X2500мм хвоя клееная гладкий</name>
+				<price>167</price>
+				<url>https://stroidiskont.com/object/227</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_222831266.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="200" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Сетка штукатурная интерьерная Bauproffe 1000 мм х 50 м ячейка 5 х 5 мм белая</name>
+				<price>1880</price>
+				<url>https://stroidiskont.com/object/200</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_213512819.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="261" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Шпатлевка Старатели КР финишная белый 20 кг</name>
+				<price>420</price>
+				<url>https://stroidiskont.com/object/261</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_230536779.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="198" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Сетка кладочная Перелетов и К 100 х 100 х 2,5 мм 1 х 2 м</name>
+				<price>205</price>
+				<url>https://stroidiskont.com/object/198</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_213412012.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="221" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Пиломатериалы профилированные 20Х30Х2000мм хвоя 2сорт</name>
+				<price>47</price>
+				<url>https://stroidiskont.com/object/221</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_222222917.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="115" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Смесь штукатурно-клеевая Bergauf Isofix для утеплителя серый 25 кг</name>
+				<price>699</price>
+				<url>https://stroidiskont.com/object/115</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_204549688.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="230" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Рейка сращенная 5X29X2200мм</name>
+				<price>110</price>
+				<url>https://stroidiskont.com/object/230</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_223033066.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="213" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Полоса 20 х 4 х 4 мм 3 м</name>
+				<price>278</price>
+				<url>https://stroidiskont.com/object/213</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_220659795.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="234" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Рулонный кровельный материал Технониколь Стеклоизол Р ХПП-2,1 1000 x 9000 мм черный</name>
+				<price>937</price>
+				<url>https://stroidiskont.com/object/234</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_224301445.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="146" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Штукатурка декоративная Старатели Короед 2 мм 25 кг</name>
+				<price>699</price>
+				<url>https://stroidiskont.com/object/146</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_193828996.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="297" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Профиль маяковый Profil-Systems для быстрого выравнивания 6 мм x 2,7 м</name>
+				<price>35</price>
+				<url>https://stroidiskont.com/object/297</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-28_004150856.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="133" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Шпаклевка финишная Knauf Ротбанд Паста Профи белая 18 кг</name>
+				<price>1940</price>
+				<url>https://stroidiskont.com/object/133</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_190629113.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="116" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Арматура рифленая 10 х 10 х 2950 мм</name>
+				<price>195</price>
+				<url>https://stroidiskont.com/object/116</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_215840563.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="250" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Шпатлевка гипсовая EK K200 LINE универсальная 20 кг</name>
+				<price>444</price>
+				<url>https://stroidiskont.com/object/250</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_225829231.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="196" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Смесь гидроизоляционная полимерная Ceresit СL51 эластичная 1,4 кг</name>
+				<price>797</price>
+				<url>https://stroidiskont.com/object/196</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_212707739.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="229" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Рейка сращенная 5X19X2200мм</name>
+				<price>92</price>
+				<url>https://stroidiskont.com/object/229</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_222950955.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="219" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>ДВП сорт 1 3.2Х1700Х2745 мм</name>
+				<price>510</price>
+				<url>https://stroidiskont.com/object/219</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_222059266.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="257" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Шпатлевка гипсовая Unis Блик белый 18 кг</name>
+				<price>559</price>
+				<url>https://stroidiskont.com/object/257</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_230238655.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="296" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Профиль маяковый для быстрого выравнивания 6 мм x 3 м</name>
+				<price>39</price>
+				<url>https://stroidiskont.com/object/296</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-28_004119784.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="176" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Пенополистирол экструдированный Пеноплэкс 30х585х1185 мм 0,6932 м2/0,0208 м3</name>
+				<price>170</price>
+				<url>https://stroidiskont.com/object/176</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_210457890.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="237" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Конек Ондулин 1035 х 500 мм красная черепица</name>
+				<price>495</price>
+				<url>https://stroidiskont.com/object/237</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_224511494.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="268" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Клей для плитки Bergauf Keramik Pro 25 кг</name>
+				<price>444</price>
+				<url>https://stroidiskont.com/object/268</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_231903101.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="118" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Профиль строительный потолочный Э 60х27х0,38 мм 3 м</name>
+				<price>169</price>
+				<url>https://stroidiskont.com/object/118</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_205305813.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="147" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Штукатурка декоративная Лакра шуба 2 мм 15 кг</name>
+				<price>1877</price>
+				<url>https://stroidiskont.com/object/147</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_193921501.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="233" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Рулонный кровельный материал Технониколь Рубероид РПП-200 1000 x 15000 мм серый</name>
+				<price>685</price>
+				<url>https://stroidiskont.com/object/233</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_224030684.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="148" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Штукатурка декоративная Лакра короед 2 мм 15 кг</name>
+				<price>2199</price>
+				<url>https://stroidiskont.com/object/148</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_194005919.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="149" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Штукатурка декоративная Лакра структурная 2 мм 15 кг</name>
+				<price>1978</price>
+				<url>https://stroidiskont.com/object/149</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_194141198.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="160" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Наливной пол Bergauf Boden Zement Gross на цементной основе серый 25 кг</name>
+				<price>505</price>
+				<url>https://stroidiskont.com/object/160</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_195905683.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="167" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Затирка цементная Bergauf Elast Premium серый 2 кг</name>
+				<price>448</price>
+				<url>https://stroidiskont.com/object/167</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_200611208.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="175" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Профиль строительный потолочный Э 60х27х0,38 мм 2,7 м</name>
+				<price>152</price>
+				<url>https://stroidiskont.com/object/175</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_210155527.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="174" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Профиль строительный потолочный 60х27х0,45 мм 3 м</name>
+				<price>176</price>
+				<url>https://stroidiskont.com/object/174</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_210038940.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="150" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Штукатурка декоративная Лакра структурная 1,5 мм 15 кг</name>
+				<price>1978</price>
+				<url>https://stroidiskont.com/object/150</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_194217837.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="158" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Клей гипсовый Knauf Перлфикс 30 кг</name>
+				<price>588</price>
+				<url>https://stroidiskont.com/object/158</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_195600180.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="143" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Штукатурка декоративная Bergauf Dekor короед белая 25 кг</name>
+				<price>713</price>
+				<url>https://stroidiskont.com/object/143</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_193641115.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="231" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>ДСП Е-1 шлифованная-2 П-А 16Х1830Х2440/2500 мм</name>
+				<price>2091</price>
+				<url>https://stroidiskont.com/object/231</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_223102516.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="207" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Труба профильная 20 х 20 х 1,5 мм 3 м</name>
+				<price>340</price>
+				<url>https://stroidiskont.com/object/207</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_220152657.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="235" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Профнастил оцинкованный С8 Кровельсон 1200 х 2000 х 0,35 мм коричневый</name>
+				<price>999</price>
+				<url>https://stroidiskont.com/object/235</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_224342372.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="130" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Штукатурка цементная Старатели Фасадная 25 кг</name>
+				<price>336</price>
+				<url>https://stroidiskont.com/object/130</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_185244535.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="134" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Шпаклевка финишная Knauf Ротбанд Паста Профи белая 5 кг</name>
+				<price>893</price>
+				<url>https://stroidiskont.com/object/134</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_190732039.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="168" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Затирка цементная Bergauf Elast Premium терракот 2 кг</name>
+				<price>399</price>
+				<url>https://stroidiskont.com/object/168</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_200611208.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="128" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Штукатурка гипсовая Bergauf Aqua Putz Gips 25 кг влагостойкая</name>
+				<price>385</price>
+				<url>https://stroidiskont.com/object/128</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_184517345.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="120" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Плита OSB-3 влагостойкая 9X1220X2440 мм</name>
+				<price>475</price>
+				<url>https://stroidiskont.com/object/120</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_221717911.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="241" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Планка карнизная VEGASTOK металл 45*65мм 2 м цинк</name>
+				<price>256</price>
+				<url>https://stroidiskont.com/object/241</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_224734076.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="136" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Шпаклевка гипсовая ВОЛМА Финиш 20кг</name>
+				<price>428</price>
+				<url>https://stroidiskont.com/object/136</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_190951542.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="165" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Цементная стяжка UNIS (ЮНИС) Горизонт 25 кг</name>
+				<price>329</price>
+				<url>https://stroidiskont.com/object/165</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_200329253.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="178" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Пенополистирол экструдированный Технониколь 30х580х1180 мм/ 0,6844 м2/ 0,020532 м3</name>
+				<price>190</price>
+				<url>https://stroidiskont.com/object/178</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_210732046.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="125" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Штукатурка цементная Bergauf Bau Putz Zement 25 кг</name>
+				<price>385</price>
+				<url>https://stroidiskont.com/object/125</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_184100002.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="131" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Штукатурка гипсовая Старатели 15 кг</name>
+				<price>283</price>
+				<url>https://stroidiskont.com/object/131</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_185340544.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="112" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Пенополистирол экструдированный Пеноплэкс 50х585х1185 мм 0,6932 м2/ 0,0347 м3</name>
+				<price>260</price>
+				<url>https://stroidiskont.com/object/112</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_210457890.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="179" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Пенополистирол экструдированный Технониколь 50х580х1180 мм/ 0,6844 м2/ 0,03422 м3</name>
+				<price>285</price>
+				<url>https://stroidiskont.com/object/179</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_210732046.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="177" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Пенополистирол экструдированный Пеноплэкс 20х585х1185 мм 0,6932 м2/ 0,0139 м3</name>
+				<price>120</price>
+				<url>https://stroidiskont.com/object/177</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_210457890.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="182" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Утеплитель базальтовый ТЕХНОНИКОЛЬ Роклайт-35 100x600x1200 мм / 4,32 м2 / 0,432 м3 6 шт</name>
+				<price>1299</price>
+				<url>https://stroidiskont.com/object/182</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_211146341.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="185" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Утеплитель напыляемый BAUPROFFE 1000 мл</name>
+				<price>620</price>
+				<url>https://stroidiskont.com/object/185</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_211441520.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="218" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Пиломатериалы профилированные 50Х50Х3000мм хвоя 1сорт</name>
+				<price>305</price>
+				<url>https://stroidiskont.com/object/218</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_222021552.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="195" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Смесь гидроизоляционная цементная Bergauf Hydrostop обмазочного типа 20 кг</name>
+				<price>815.31</price>
+				<url>https://stroidiskont.com/object/195</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_212627230.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="220" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Фанера ФК сорт IV/IV 8Х1525Х1525 мм</name>
+				<price>760</price>
+				<url>https://stroidiskont.com/object/220</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_222148883.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="184" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Утеплитель напыляемый Teplis Gun с пистолетом 1000 мл</name>
+				<price>903</price>
+				<url>https://stroidiskont.com/object/184</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_211347594.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="255" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Шпаклевка полимерная финишная Knauf Полимер Финиш белая 20 кг</name>
+				<price>914</price>
+				<url>https://stroidiskont.com/object/255</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_230126065.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="180" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Арматура композитная стеклопластиковая ST 6 х 6 х 50000 мм</name>
+				<price>395</price>
+				<url>https://stroidiskont.com/object/180</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_213139714.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="186" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Пленка гидро-пароизоляционная Megaflex Standard 1,6 м 70 кв.м</name>
+				<price>2625</price>
+				<url>https://stroidiskont.com/object/186</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_211524191.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="285" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Клей для плитки BERGAUF Granit 5 кг</name>
+				<price>275</price>
+				<url>https://stroidiskont.com/object/285</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_232952186.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="121" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Гидроизоляционная лента Bergauf Hydrolenta 0,5 х 120 мм 10 м</name>
+				<price>1350</price>
+				<url>https://stroidiskont.com/object/121</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_211958851.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="119" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Арматура композитная стеклопластиковая ST 8 х 8 х 50000 мм</name>
+				<price>595</price>
+				<url>https://stroidiskont.com/object/119</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_213048042.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="205" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Арматура рифленая 8 х 8 х 5850 мм</name>
+				<price>277</price>
+				<url>https://stroidiskont.com/object/205</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_215754486.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="191" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Гидроизоляция битумная универсальная ТЕХНОНИКОЛЬ AquaMast 15 кг</name>
+				<price>2265</price>
+				<url>https://stroidiskont.com/object/191</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_212308390.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="202" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Серпянка самоклеящаяся Bauproffe 50 мм x 45 м</name>
+				<price>129</price>
+				<url>https://stroidiskont.com/object/202</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_213629330.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="232" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Рулонный кровельный материал Технониколь Бикрост ХПП 1000 x 15000 мм черный</name>
+				<price>2281</price>
+				<url>https://stroidiskont.com/object/232</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_223910524.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="189" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Гидроизоляция отсечная Технониколь 1 х 400 мм 20 м</name>
+				<price>1140</price>
+				<url>https://stroidiskont.com/object/189</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_212112183.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="194" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Смесь гидроизоляционная цементная Bergauf Hydroplomba быстротвердеющая 600 г</name>
+				<price>310</price>
+				<url>https://stroidiskont.com/object/194</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_212535620.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="215" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Уголок стальной 100х100х7/3м</name>
+				<price>3479</price>
+				<url>https://stroidiskont.com/object/215</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_220437903.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="193" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Смесь гидроизоляционная цементная Bergauf Hydrostop обмазочного типа 5 кг</name>
+				<price>410</price>
+				<url>https://stroidiskont.com/object/193</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_212419963.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="113" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Арматура рифленая 8 х 8 х 2950 мм</name>
+				<price>137</price>
+				<url>https://stroidiskont.com/object/113</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_215754486.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="117" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Арматура рифленая 6 х 6 х 2950 мм</name>
+				<price>91.2</price>
+				<url>https://stroidiskont.com/object/117</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_215940910.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="187" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Пленка ветро-влагозащитная Megaflex Siding 1,6 м 70 кв.м</name>
+				<price>3199</price>
+				<url>https://stroidiskont.com/object/187</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_211639482.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="111" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Рулонный кровельный материал Технониколь Бикрост ХКП 1000 x 10000 мм серый</name>
+				<price>1860</price>
+				<url>https://stroidiskont.com/object/111</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_223910524.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="242" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Кирпич красный 250 х 120 х 65 мм М125 рядовой</name>
+				<price>31</price>
+				<url>https://stroidiskont.com/object/242</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_225017017.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="114" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Шпаклевка гипсовая КНАУФ-Фуген 25кг</name>
+				<price>607</price>
+				<url>https://stroidiskont.com/object/114</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_190343669.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="142" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Шпатлевка цементная Bergauf Finish Zement белый 20 кг</name>
+				<price>689</price>
+				<url>https://stroidiskont.com/object/142</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_191841074.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="258" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Шпаклевка гипсовая BERGAUF (Бергауф) Finish Gips для внутренних работ 18кг</name>
+				<price>452</price>
+				<url>https://stroidiskont.com/object/258</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_230313726.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="109" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Кирпич красный БАКАЛИНСКИЙ М-125</name>
+				<price>28</price>
+				<url>https://stroidiskont.com/object/109</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_224944331.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="238" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Конек Ондулин 1035 х 500 мм коричневая черепица</name>
+				<price>495</price>
+				<url>https://stroidiskont.com/object/238</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_224546165.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="151" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Цемент ЕВРОЦЕМЕНТ М500 ЦЕМ II/А-П 42,5Н 40 кг</name>
+				<price>440</price>
+				<url>https://stroidiskont.com/object/151</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_194513271.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="208" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Труба профильная 60 х 60 х 3 мм 3 м</name>
+				<price>2014</price>
+				<url>https://stroidiskont.com/object/208</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_220152657.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="169" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Смесь штукатурно-клеевая Ceresit ThermoUniv для пенополистирола и минеральных плит серый 25 кг</name>
+				<price>826</price>
+				<url>https://stroidiskont.com/object/169</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_204632530.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="173" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Профиль строительный направляющий Knauf 28х27х0,6 мм 3 м</name>
+				<price>185</price>
+				<url>https://stroidiskont.com/object/173</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_205947760.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="263" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Шпаклевка CERESIT СТ/IN 95/25 готовая полимерная 25кг</name>
+				<price>2463</price>
+				<url>https://stroidiskont.com/object/263</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_230711845.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="217" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Фанера ФК сорт IV/IV 4Х1525Х1525 мм</name>
+				<price>695</price>
+				<url>https://stroidiskont.com/object/217</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_221948107.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="212" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Труба профильная 50 х 50 х 3 мм 3 м</name>
+				<price>1582</price>
+				<url>https://stroidiskont.com/object/212</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_220612294.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="164" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Стяжка для пола Bergauf (Бергауф) Erste Grund 25кг</name>
+				<price>326</price>
+				<url>https://stroidiskont.com/object/164</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_200243806.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="170" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Смесь штукатурно-клеевая Быстрой Теплоизоляция ОК серый 25 кг</name>
+				<price>598</price>
+				<url>https://stroidiskont.com/object/170</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_204709302.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="209" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Уголок стальной 50 х 50 х 4 мм 3 м</name>
+				<price>1066</price>
+				<url>https://stroidiskont.com/object/209</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_220437903.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="171" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Профиль строительный потолочный KNAUF 60х27х0,6 мм 3 м</name>
+				<price>259</price>
+				<url>https://stroidiskont.com/object/171</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_205657503.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="192" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Смесь гидроизоляционная акриловая Bergauf Hydro-Tec Membrane 4 кг</name>
+				<price>1597</price>
+				<url>https://stroidiskont.com/object/192</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_212359628.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="282" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Клей для плитки Bergauf Maximum Plus 25 кг</name>
+				<price>565</price>
+				<url>https://stroidiskont.com/object/282</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_232803035.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="204" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Арматура рифленая 12 х 12 х 2950 мм</name>
+				<price>266</price>
+				<url>https://stroidiskont.com/object/204</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_220021727.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="172" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Профиль строительный направляющий 27х28х0,38 мм 3 м</name>
+				<price>69</price>
+				<url>https://stroidiskont.com/object/172</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_205802111.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="199" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Сетка фасадная особо прочная Bauproffe 1000 мм х 20 м ячейка 5 х 5 мм белая</name>
+				<price>1163</price>
+				<url>https://stroidiskont.com/object/199</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_213453409.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="222" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Вагонка деревянная сортАВ 12.5Х96(88)Х2000мм хвоя 10шт</name>
+				<price>1240</price>
+				<url>https://stroidiskont.com/object/222</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_222321611.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="284" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Клей для плитки BERGAUF Granit 25 кг</name>
+				<price>875</price>
+				<url>https://stroidiskont.com/object/284</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_232912873.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="183" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Утеплитель базальтовый Технониколь Техноакустик-41 50 x 600 x 1200 мм / 5,76 м2 / 0,288 м3 8 шт</name>
+				<price>1325</price>
+				<url>https://stroidiskont.com/object/183</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_211237977.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="259" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Шпаклевка финишная полимерная Bergauf Finish Plast белая 20 кг</name>
+				<price>642</price>
+				<url>https://stroidiskont.com/object/259</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_230352351.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="156" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Клей для блоков Bergauf Kleben Block серый 25 кг</name>
+				<price>368</price>
+				<url>https://stroidiskont.com/object/156</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_195409010.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="201" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Сетка фасадная особо прочная Bauproffe 1000 мм х 50 м ячейка 5 х 5 мм белая</name>
+				<price>2697</price>
+				<url>https://stroidiskont.com/object/201</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_213557067.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="181" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Утеплитель базальтовый ТЕХНОНИКОЛЬ Роклайт-35 50x600x1200 мм /5,76 м2 / 0,288 м3 8 шт</name>
+				<price>869</price>
+				<url>https://stroidiskont.com/object/181</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_210850514.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="188" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Пленка паропроницаемая Megaflex Dom 1,5 м 70 кв.м</name>
+				<price>5499</price>
+				<url>https://stroidiskont.com/object/188</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_211718946.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="236" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Профнастил оцинкованный С8 Кровельсон 1200 х 2000 х 0,35 мм красный</name>
+				<price>999</price>
+				<url>https://stroidiskont.com/object/236</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_224438572.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="252" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Шпаклевка гипсовая финишная КНАУФ-ХП Финиш 25 кг</name>
+				<price>574</price>
+				<url>https://stroidiskont.com/object/252</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_225934738.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="272" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Клей для плитки Bergauf Keramik Pro 5 кг</name>
+				<price>205</price>
+				<url>https://stroidiskont.com/object/272</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_232140484.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="197" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Сетка кладочная Перелетов и К 50 х 50 х 2,5 мм 0,5 х 2 м</name>
+				<price>160</price>
+				<url>https://stroidiskont.com/object/197</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_213344865.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="240" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Профнастил оцинкованный С8 Кровельсон 1200 х 2000 х 0,35 мм зеленый</name>
+				<price>1375</price>
+				<url>https://stroidiskont.com/object/240</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_224653590.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="203" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Сетка штукатурная интерьерная Bauproffe 1000 мм х 20 м ячейка 5 х 5 мм белая</name>
+				<price>837</price>
+				<url>https://stroidiskont.com/object/203</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_213712553.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="253" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Шпатлевка полимерная Weber Vetonit LR финишная белый 20 кг</name>
+				<price>895</price>
+				<url>https://stroidiskont.com/object/253</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_230014408.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="225" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Пиломатериалы профилированные 20Х30Х2000мм хвоя 1сорт</name>
+				<price>65</price>
+				<url>https://stroidiskont.com/object/225</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_222021552.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="247" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Газоблок стеновой 625х300х200</name>
+				<price>210</price>
+				<url>https://stroidiskont.com/object/247</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_225258096.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="214" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Уголок стальной 75 х 75 х 5 мм 3 м</name>
+				<price>1957</price>
+				<url>https://stroidiskont.com/object/214</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_220437903.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="157" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Смесь кладочная Bergauf Easy Master белый 5 кг</name>
+				<price>230</price>
+				<url>https://stroidiskont.com/object/157</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_195441184.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="246" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Газоблок стеновой 625х250х200</name>
+				<price>319</price>
+				<url>https://stroidiskont.com/object/246</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_225258096.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="223" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Вагонка деревянная сортС 12.5Х96(88)Х3000мм хвоя 10шт</name>
+				<price>1200</price>
+				<url>https://stroidiskont.com/object/223</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_221903153.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="224" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Вагонка деревянная сортС 12.5Х96(88)Х2500мм хвоя 10шт</name>
+				<price>1200</price>
+				<url>https://stroidiskont.com/object/224</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_221903153.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="206" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Труба профильная 40 х 20 х 1,5 мм 3 м</name>
+				<price>460</price>
+				<url>https://stroidiskont.com/object/206</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_220152657.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="190" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Гидроизоляция пола Технониколь 1,5 х 750 мм 10 м</name>
+				<price>2230</price>
+				<url>https://stroidiskont.com/object/190</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_212200033.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="243" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Кирпич красный 250 х 120 х 65 мм 1НФ рядовой</name>
+				<price>19</price>
+				<url>https://stroidiskont.com/object/243</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_225047526.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="262" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Шпаклевка масляно-клеевая ЛАКРА 1,5кг</name>
+				<price>115</price>
+				<url>https://stroidiskont.com/object/262</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_230635747.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="210" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Уголок стальной 40 х 40 х 4 мм 3 м</name>
+				<price>836</price>
+				<url>https://stroidiskont.com/object/210</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_220437903.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="216" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Вагонка деревянная сортС 12.5Х96(88)Х2000мм хвоя 10шт</name>
+				<price>1000</price>
+				<url>https://stroidiskont.com/object/216</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_221903153.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="211" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Уголок стальной 25 х 25 х 3 мм 3 м</name>
+				<price>480</price>
+				<url>https://stroidiskont.com/object/211</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_220437903.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="228" available="true">
+				<currencyId>RUB</currencyId>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<categoryId>1</categoryId>
+				<name>Уголок наружный деревянный сортА 50X50X2500мм хвоя клееная гладкий</name>
+				<price>251</price>
+				<url>https://stroidiskont.com/object/228</url>
+				<picture>https://stroidiskont.com/images/feed/изображение_2023-04-27_222831266.png</picture>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>false</manufacturer_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
